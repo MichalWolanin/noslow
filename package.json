@@ -1,6 +1,6 @@
 {
   "name": "noslow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SQL query performance monitoring middleware with AI recommendations",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
